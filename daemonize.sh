@@ -1,3 +1,8 @@
+echo ""
+echo ""
+echo "Written by Fonix 2017"
+echo ""
+echo ""
 echo "Script intended to be ran on Ubuntu, Not tested on other Linux OS's!"
 echo "Running Script"
 
